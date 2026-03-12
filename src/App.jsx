@@ -12,7 +12,7 @@ import ForgotPasswordPage from './Pages/ForgotPasswordPage';
 import ResetPasswordPage from './Pages/ResetPasswordPage';
 import Gallery from './Pages/Gallery';
 import Contact from './Pages/Contact';
-import ReservationHistory from './Pages/reservationHistory';
+import ReservationHistory from './Pages/ReservationHistory';
 import Dashboard from './Pages/Admin/Dashboard';
 import AdminRoute from "./Components/AdminRoute";
 import CheckOut from './Pages/CheckOut';
